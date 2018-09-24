@@ -12,15 +12,15 @@ for all students
 1.1 example question, concepts, data analysis
 
 2. Lineaer Regression: 
-2.1 example question, concepts, data analysis
-2.2 what if we double the sample data, how would the linear regression result change?
-2.3 what if we replace the missing data with average, how would the linear regression result change?
+2. 1 example question, concepts, data analysis
+2. 2 what if we double the sample data, how would the linear regression result change?
+2. 3 what if we replace the missing data with average, how would the linear regression result change?
 
 3. Logistic Regression: 
-3.1 example question, concepts, data analysis
-3.2 Do we really understand the Log Loss Calculation in Logistic Regression? Instead of Mean Squared Error for Linear Regression, we use a cost function called Cross-Entropy, also known as Log Loss for Logistic regression.
-3.3 Binary Classification
-3.4 One vs. Rest: Multiple Categories Classification
+3. 1 example question, concepts, data analysis
+3. 2 Do we really understand the Log Loss Calculation in Logistic Regression? Instead of Mean Squared Error for Linear Regression, we use a cost function called Cross-Entropy, also known as Log Loss for Logistic regression.
+3. 3 Binary Classification
+3. 4 One vs. Rest: Multiple Categories Classification
 
 4. Multivariate Analysis: 
 4.1 example question, concept, data analysis
