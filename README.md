@@ -1,4 +1,4 @@
-# Intro to Statistics Analysis: Chi Square Test, Lineaer & Logistic Regression and Multivariate Analysis 
+# Intro to Statistics Analysis: Pair T-test, Chi Square Test, Lineaer & Logistic Regression and Multivariate Analysis 
 The main goal of this lecture:
 
 ## Part one: class organization
@@ -8,21 +8,24 @@ The main goal of this lecture:
 
 for all students
 
-1. Chi Square Test: 
+1. Pair T-test: 
 a. example question, concepts, data analysis
 
-2. Lineaer Regression: 
+2. Chi Square Test: 
+a. example question, concepts, data analysis
+
+3. Lineaer Regression: 
 a. example question, concepts, data analysis
 b. what if we double the sample data, how would the linear regression result change?
 c. what if we replace the missing data with average, how would the linear regression result change?
 
-3. Logistic Regression: 
+4. Logistic Regression: 
 a. example question, concepts, data analysis
 b. Do we really understand the Log Loss Calculation in Logistic Regression? Instead of Mean Squared Error for Linear Regression, we use a cost function called Cross-Entropy, also known as Log Loss for Logistic regression.
 c. Binary Classification
 d. One vs. Rest: Multiple Categories Classification
 
-4. Multivariate Analysis: 
+5. Multivariate Analysis: 
 a. example question, concept, data analysis
 
 for the new students only (a makeup 30min section after class)
