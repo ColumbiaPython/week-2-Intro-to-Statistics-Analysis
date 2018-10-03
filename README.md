@@ -1,4 +1,4 @@
-# Intro to Statistics Analysis: Pair T-test, Chi Square Test, Lineaer & Logistic Regression and Multivariate Analysis 
+# Intro to Statistics Analysis: Pair T-test, Chi Square Test, Lineaer
 The main goal of this lecture:
 
 ## Part one: class organization
