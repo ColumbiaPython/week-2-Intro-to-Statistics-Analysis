@@ -29,6 +29,3 @@ for the new students only (a makeup 30min section after class)
 2. every student create individual project in ColumbiaPython (nameing: Project_lastname)
 3. start writing proposal in github as a readme file
 4. upload new files into github (reference papers, data & codes)
-
-Reference: 
-1. https://ml-cheatsheet.readthedocs.io/en/latest/logistic_regression.html
